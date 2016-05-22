@@ -1,4 +1,4 @@
-# Sensor-Network-CS583
+# Sensor-Network
 
 Contains code to model a sensor network comprised of temperature & humidity sensors.
  
