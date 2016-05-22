@@ -14,9 +14,9 @@ humidities and use them in conjunction with the means and variances of the obser
 different times obtained from the training data, to produce predictions of the outputs of those sensors for which the
 reading cannot be attained.
 In the code, multiple approaches were employed namely –
-** Windowed Active Inference with hour constant model parameters.
-** Windowed Active Inference with day constant model parameters.
-** Variance based Active Inference with hour constant model parameters.
-** Variance based Active Inference with day constant model parameters.
+* * Windowed Active Inference with hour constant model parameters.
+* * Windowed Active Inference with day constant model parameters.
+* * Variance based Active Inference with hour constant model parameters.
+* * Variance based Active Inference with day constant model parameters.
 In the hour constant parameter model, the model parameters are kept constant at the 0.5 hour level and in the day
 constant model, the parameters are kept constant at the day level.
