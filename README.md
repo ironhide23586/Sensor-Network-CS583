@@ -16,6 +16,7 @@ reading cannot be attained.
 In the code, multiple approaches were employed namely
 
 > Windowed Active Inference with hour constant model parameters.
+
 > Windowed Active Inference with day constant model parameters.
 > Variance based Active Inference with hour constant model parameters.
 > Variance based Active Inference with day constant model parameters.
